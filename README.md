@@ -46,12 +46,47 @@ To install the required packages, run:
 ```
 pip install -r requirements.txt
 ```
+📍 Application Relevance to Indore
+
+Indore (population 3.2M) faces heavy congestion during peak hours (7–10 AM, 5–8 PM).
+Our solution can directly address these issues:
+
+👥 Citizens
+
+Time loss: 45 min/day → AI reduces commute by 20%
+
+Fuel costs: Save ₹800/month per commuter
+
+Stress: Less congestion = fewer road rage incidents
+
+🚚 Delivery Services
+
+Late deliveries: Currently 22% delayed
+
+Costs: Extra ₹15/order fuel wasted
+
+Satisfaction: On-time performance boosts ratings
+
+🏛️ City Officials
+
+Emergency delay: Ambulance avg 18 mins → target <10 mins
+
+Revenue loss: ₹25 crore/year due to traffic delays
+
+Infrastructure strain: 12% roads over capacity
+
+## flow chart link
+https://app.eraser.io/workspace/UiG2lRowZqvXxKtLeETw?origin=share
 
 ## Usage
 To run the Streamlit web application, navigate to the `app` directory and execute:
 ```
 streamlit run streamlit_app.py
+
+
 ```
+## demo
+https://docs.google.com/videos/d/1pVEJLCnNM_Bu7QyAn5Res5HnyVdWSV4JEqZdQIjUtfM/edit?usp=sharing
 
 ## License
 This project is licensed under the MIT License.
