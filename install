@@ -1,0 +1,11 @@
+[33mcommit f59be320e8a3e7123e6691f652f3f06f737494cb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Swayam7Garg <swayamgarg08@gmail.com>
+Date:   Fri Sep 19 13:51:41 2025 +0530
+
+    Track large model file with Git LFS
+
+[33mcommit 6617a134e45895bf76af1bee873d42a7befd7d4b[m
+Author: Swayam7Garg <swayamgarg08@gmail.com>
+Date:   Fri Sep 19 13:50:05 2025 +0530
+
+    Initial commit: Smart Traffic Management
