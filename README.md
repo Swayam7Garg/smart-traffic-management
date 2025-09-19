@@ -13,14 +13,6 @@ traffic-prediction-ai
 │   └── raw
 ├── notebooks
 │   └── exploratory_analysis.ipynb
-├── src
-│   ├── data_loading.py
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── prediction_service.py
 ├── app
 │   └── streamlit_app.py
 ├── requirements.txt
